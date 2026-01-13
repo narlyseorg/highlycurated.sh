@@ -2,6 +2,7 @@
 
 A file organization utility for macOS that automatically categorizes files in the Downloads directory based on their extensions.
 
+![highlycurated.sh](https://img.lightshot.app/ORF333O9R-6tYscJvMTQ8A.png)
 ---
 
 ## Abstract
@@ -93,6 +94,8 @@ Verify the script executes without errors:
      ```bash
      /bin/bash ~/Library/Scripts/highlycurated.sh
      ```
+
+![highlycurated.sh](https://img.lightshot.app/MF4Az-8fSYun9EdsxYiCuw.png)
 
 8. Save the workflow:
    - Press `Cmd + S`
